@@ -5,7 +5,7 @@ molecool
 [![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/molecool/branch/main/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/molecool/branch/main)
 
 
-A Python package to visualize molecules given their Catesian coordinates
+A Python package to visualize molecules given their Catesian coordinates. Future work will include other formats.
 
 ### Copyright
 

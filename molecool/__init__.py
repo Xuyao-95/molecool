@@ -1,4 +1,5 @@
-"""A Python package to visualize molecules given their Catesian coordinates"""
+"""A Python package to visualize molecules given their Catesian coordinates.
+This was created for the Python Best Practices Workshop"""
 
 # Add imports here
 from .functions import canvas
